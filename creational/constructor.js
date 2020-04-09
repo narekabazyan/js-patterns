@@ -9,5 +9,5 @@ class ApiNetwork {
     }
 }
 
-const aws = new ApiNetwork('Aws', "84.12.12.14");
+const aws = new ApiNetwork('Aws', "84.12.13.14");
 console.log(aws.getUrl());
